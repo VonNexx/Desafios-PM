@@ -1,0 +1,49 @@
+.Top{
+    background-color:#f7b710;
+    text-align: center;
+    width: 100%;
+}
+
+.Posts{
+    background-color: white;
+    text-align: left;
+    padding-left: 20px;
+    margin-left: 350px;
+    max-width: 470px;
+    min-height: 400px;
+}
+
+.Rposts{
+    position: relative;
+    left: 510px;
+    bottom: 946px;
+    background-color: white;
+    text-align: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 350px;
+    max-width: 200px;
+}
+
+.Categorias{
+    position: relative;
+    left: 510px;
+    bottom: 946px;
+    background-color: white;
+    text-align: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 350px;
+    max-width: 200px;
+}
+
+.Direitos{
+    position: relative;
+    bottom: 335px;
+    margin-left: 350px;
+    background-color: #cccccc;
+    text-align: center;
+    max-width: 700px;
+
+
+}
